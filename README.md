@@ -1,6 +1,11 @@
 # crud-operations-using-rest-api
 Built a REST API using MySQL as the database and Node.js as our language. We’ll also use the Express.js framework. This REST API will give the list of top search engines.
 The curl_commands.rest file contains the put, delete and post commands. 
+The database was made in phpadmin using db4free.net. The details of database are in config.js 
+The database created has 6 rows which are as follows-
+
+![image](https://github.com/islursmriti/crud-operations-using-rest-api/assets/104566739/76995b44-2fb2-41ac-88d1-9f04291fd334)
+
 # The output of the commands are as follows:
 ## 1. post :/collection-(added a new row 7,naver,2018)
 
