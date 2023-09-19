@@ -1,0 +1,4 @@
+
+# curl -i -X POST -H 'Accept: application/json'  -H 'Content-type: application/json' http://localhost:3000/collection   --data '{"id":7, "name":"naver", "released_year": 2018}'
+# curl -i -X PUT -H 'Accept: application/json'   -H 'Content-type: application/json' http://localhost:3000/collection/7   --data '{"name":"naver whale", "released_year": 2018}'
+# curl -i -X DELETE -H 'Accept: application/json' -H 'Content-type: application/json' http://localhost:3000/collection/7
